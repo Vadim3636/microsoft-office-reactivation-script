@@ -12,4 +12,4 @@ The activator was downloaded and modified from https://massgrave.dev (https://gi
 
 Author: https://github.com/Vadim3636
 
-Script page: --
+Script page: https://github.com/Vadim3636/microsoft-office-reactivation-script
