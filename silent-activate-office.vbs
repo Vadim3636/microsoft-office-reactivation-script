@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\Windows\Ohook\activate-office-noclick.cmd", 0, True
